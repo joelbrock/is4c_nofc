@@ -1,0 +1,472 @@
+[2010-04-20 16:10:16] -- Week tag #00 selected.  $start_date = . $end_date = 
+[2010-04-20 16:10:16] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk00.csv
+[2010-04-20 16:10:16] ** Error: Your query returned no results.  Exiting
+[2010-04-20 16:14:47] -- Week tag #00 selected.  $start_date = . $end_date = 
+[2010-04-20 16:14:47] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk00.csv
+[2010-04-20 16:14:47] ** Error: Your query returned no results.  Exiting
+[2010-04-20 17:49:53] -- Week tag #01 selected.  $start_date = 2009-12-27. $end_date = 2010-01-02
+[2010-04-20 17:49:53] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk01.csv
+[2010-04-20 17:49:53] ++ Success, wrote 1822 rows to file /pos/fannie/SPINS/2010/pfcp_wk01.csv
+[2010-04-20 17:49:53] ++ Success, uploaded file pfcp_wk01.csv to ftp.spins.com
+[2010-04-20 17:50:49] -- Week tag #01 selected.  $start_date = 2009-12-27. $end_date = 2010-01-02
+[2010-04-20 17:50:49] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk01.csv
+[2010-04-20 17:50:49] ++ Success, wrote 1822 rows to file /pos/fannie/SPINS/2010/pfcp_wk01.csv
+[2010-04-20 17:50:49] ++ Success, uploaded file pfcp_wk01.csv to ftp.spins.com
+[2010-04-20 17:53:26] -- Week tag #00 selected.  $start_date = . $end_date = 
+[2010-04-20 17:53:26] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk00.csv
+[2010-04-20 17:53:26] ** Error: Your query returned no results.  Exiting
+[2010-04-20 17:54:06] -- Week tag #01 selected.  $start_date = 2009-12-27. $end_date = 2010-01-02
+[2010-04-20 17:54:06] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk01.csv
+[2010-04-20 17:54:06] ++ Success, wrote 1822 rows to file /pos/fannie/SPINS/2010/pfcp_wk01.csv
+[2010-04-20 17:54:06] ++ Success, uploaded file pfcp_wk01.csv to ftp.spins.com
+[2010-04-20 17:54:06] -- Week tag #02 selected.  $start_date = 2010-01-03. $end_date = 2010-01-09
+[2010-04-20 17:54:06] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk02.csv
+[2010-04-20 17:54:06] ++ Success, wrote 1852 rows to file /pos/fannie/SPINS/2010/pfcp_wk02.csv
+[2010-04-20 17:54:06] ++ Success, uploaded file pfcp_wk02.csv to ftp.spins.com
+[2010-04-20 17:54:06] -- Week tag #03 selected.  $start_date = 2010-01-10. $end_date = 2010-01-16
+[2010-04-20 17:54:06] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk03.csv
+[2010-04-20 17:54:06] ++ Success, wrote 1805 rows to file /pos/fannie/SPINS/2010/pfcp_wk03.csv
+[2010-04-20 17:54:06] ++ Success, uploaded file pfcp_wk03.csv to ftp.spins.com
+[2010-04-20 17:54:06] -- Week tag #04 selected.  $start_date = 2010-01-17. $end_date = 2010-01-23
+[2010-04-20 17:54:06] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk04.csv
+[2010-04-20 17:54:06] ++ Success, wrote 1838 rows to file /pos/fannie/SPINS/2010/pfcp_wk04.csv
+[2010-04-20 17:54:06] ++ Success, uploaded file pfcp_wk04.csv to ftp.spins.com
+[2010-04-20 17:54:06] -- Week tag #05 selected.  $start_date = 2010-01-24. $end_date = 2010-01-30
+[2010-04-20 17:54:06] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk05.csv
+[2010-04-20 17:54:06] ++ Success, wrote 1786 rows to file /pos/fannie/SPINS/2010/pfcp_wk05.csv
+[2010-04-20 17:54:06] ++ Success, uploaded file pfcp_wk05.csv to ftp.spins.com
+[2010-04-20 17:54:06] -- Week tag #06 selected.  $start_date = 2010-01-31. $end_date = 2010-02-06
+[2010-04-20 17:54:06] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk06.csv
+[2010-04-20 17:54:06] ++ Success, wrote 1844 rows to file /pos/fannie/SPINS/2010/pfcp_wk06.csv
+[2010-04-20 17:54:06] ++ Success, uploaded file pfcp_wk06.csv to ftp.spins.com
+[2010-04-20 17:54:06] -- Week tag #07 selected.  $start_date = 2010-02-07. $end_date = 2010-02-13
+[2010-04-20 17:54:06] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk07.csv
+[2010-04-20 17:54:06] ++ Success, wrote 2029 rows to file /pos/fannie/SPINS/2010/pfcp_wk07.csv
+[2010-04-20 17:54:06] ++ Success, uploaded file pfcp_wk07.csv to ftp.spins.com
+[2010-04-20 17:54:06] -- Week tag #08 selected.  $start_date = 2010-02-14. $end_date = 2010-02-20
+[2010-04-20 17:54:06] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk08.csv
+[2010-04-20 17:54:06] ++ Success, wrote 1774 rows to file /pos/fannie/SPINS/2010/pfcp_wk08.csv
+[2010-04-20 17:54:06] ++ Success, uploaded file pfcp_wk08.csv to ftp.spins.com
+[2010-04-20 17:54:06] -- Week tag #09 selected.  $start_date = 2010-02-21. $end_date = 2010-02-27
+[2010-04-20 17:54:06] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk09.csv
+[2010-04-20 17:54:06] ++ Success, wrote 1814 rows to file /pos/fannie/SPINS/2010/pfcp_wk09.csv
+[2010-04-20 17:54:06] ++ Success, uploaded file pfcp_wk09.csv to ftp.spins.com
+[2010-04-20 17:54:06] -- Week tag #10 selected.  $start_date = 2010-02-28. $end_date = 2010-03-06
+[2010-04-20 17:54:06] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk10.csv
+[2010-04-20 17:54:06] ++ Success, wrote 1870 rows to file /pos/fannie/SPINS/2010/pfcp_wk10.csv
+[2010-04-20 17:54:06] ++ Success, uploaded file pfcp_wk10.csv to ftp.spins.com
+[2010-04-20 17:54:06] -- Week tag #11 selected.  $start_date = 2010-03-07. $end_date = 2010-03-13
+[2010-04-20 17:54:06] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk11.csv
+[2010-04-20 17:54:06] ++ Success, wrote 1859 rows to file /pos/fannie/SPINS/2010/pfcp_wk11.csv
+[2010-04-20 17:54:06] ++ Success, uploaded file pfcp_wk11.csv to ftp.spins.com
+[2010-04-20 17:54:06] -- Week tag #12 selected.  $start_date = 2010-03-14. $end_date = 2010-03-20
+[2010-04-20 17:54:06] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk12.csv
+[2010-04-20 17:54:06] ++ Success, wrote 1834 rows to file /pos/fannie/SPINS/2010/pfcp_wk12.csv
+[2010-04-20 17:54:06] ++ Success, uploaded file pfcp_wk12.csv to ftp.spins.com
+[2010-04-20 17:54:06] -- Week tag #13 selected.  $start_date = 2010-03-21. $end_date = 2010-03-27
+[2010-04-20 17:54:06] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk13.csv
+[2010-04-20 17:54:06] ++ Success, wrote 1836 rows to file /pos/fannie/SPINS/2010/pfcp_wk13.csv
+[2010-04-20 17:54:06] ++ Success, uploaded file pfcp_wk13.csv to ftp.spins.com
+[2010-04-20 17:54:06] -- Week tag #14 selected.  $start_date = 2010-03-28. $end_date = 2010-04-03
+[2010-04-20 17:54:06] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk14.csv
+[2010-04-20 17:54:06] ++ Success, wrote 1920 rows to file /pos/fannie/SPINS/2010/pfcp_wk14.csv
+[2010-04-20 17:54:06] ++ Success, uploaded file pfcp_wk14.csv to ftp.spins.com
+[2010-04-20 17:54:06] -- Week tag #15 selected.  $start_date = 2010-04-04. $end_date = 2010-04-10
+[2010-04-20 17:54:06] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk15.csv
+[2010-04-20 17:54:06] ++ Success, wrote 1896 rows to file /pos/fannie/SPINS/2010/pfcp_wk15.csv
+[2010-04-20 17:54:06] ++ Success, uploaded file pfcp_wk15.csv to ftp.spins.com
+[2010-04-20 17:54:06] -- Week tag #16 selected.  $start_date = 2010-04-11. $end_date = 2010-04-17
+[2010-04-20 17:54:06] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk16.csv
+[2010-04-20 17:54:06] ++ Success, wrote 1825 rows to file /pos/fannie/SPINS/2010/pfcp_wk16.csv
+[2010-04-20 17:54:06] ++ Success, uploaded file pfcp_wk16.csv to ftp.spins.com
+[2010-04-20 17:57:00] -- Week tag #00 selected.  $start_date = . $end_date = 
+[2010-04-20 17:57:00] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk00.csv
+[2010-04-20 17:57:00] ** Error: Your query returned no results.  Exiting
+[2010-04-20 17:57:25] -- Week tag #16 selected.  $start_date = 2010-04-11. $end_date = 2010-04-17
+[2010-04-20 17:57:25] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk16.csv
+[2010-04-20 17:57:25] ++ Success, wrote 1825 rows to file /pos/fannie/SPINS/2010/pfcp_wk16.csv
+[2010-04-20 17:57:25] ++ Success, uploaded file pfcp_wk16.csv to ftp.spins.com
+[2010-04-27 05:01:01] -- Week tag #17 selected.  $start_date = 2010-04-18. $end_date = 2010-04-24
+[2010-04-27 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk17.csv
+[2010-04-27 05:01:01] ++ Success, wrote 1826 rows to file /pos/fannie/SPINS/2010/pfcp_wk17.csv
+[2010-04-27 05:01:01] ++ Success, uploaded file pfcp_wk17.csv to ftp.spins.com
+[2010-05-03 14:42:30] -- Week tag #01 selected.  $start_date = 2009-12-27. $end_date = 2010-01-02
+[2010-05-03 14:42:30] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk01.csv
+[2010-05-03 14:42:30] ** Error: Cannot open file /pos/fannie/SPINS/2010/pfcp_wk01.csv.  Exiting
+[2010-05-03 14:47:39] -- Week tag #01 selected.  $start_date = 2009-12-27. $end_date = 2010-01-02
+[2010-05-03 14:47:39] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk01.csv
+[2010-05-03 14:47:39] ** Error: Cannot open file /pos/fannie/SPINS/2010/pfcp_wk01.csv.  Exiting
+[2010-05-03 14:47:45] -- Week tag #01 selected.  $start_date = 2009-12-27. $end_date = 2010-01-02
+[2010-05-03 14:47:45] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk01.csv
+[2010-05-03 14:47:45] ** Error: Cannot open file /pos/fannie/SPINS/2010/pfcp_wk01.csv.  Exiting
+[2010-05-03 14:49:40] -- Week tag #01 selected.  $start_date = 2009-12-27. $end_date = 2010-01-02
+[2010-05-03 14:49:40] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk01.csv
+[2010-05-03 14:49:40] ++ Success, wrote 1822 rows to file /pos/fannie/SPINS/2010/pfcp_wk01.csv
+[2010-05-03 14:49:40] ++ Success, uploaded file pfcp_wk01.csv to ftp.spins.com
+[2010-05-03 14:50:42] -- Week tag #02 selected.  $start_date = 2010-01-03. $end_date = 2010-01-09
+[2010-05-03 14:50:42] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk02.csv
+[2010-05-03 14:50:42] ++ Success, wrote 1852 rows to file /pos/fannie/SPINS/2010/pfcp_wk02.csv
+[2010-05-03 14:50:42] ++ Success, uploaded file pfcp_wk02.csv to ftp.spins.com
+[2010-05-03 14:51:21] -- Week tag #03 selected.  $start_date = 2010-01-10. $end_date = 2010-01-16
+[2010-05-03 14:51:21] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk03.csv
+[2010-05-03 14:51:21] ++ Success, wrote 1805 rows to file /pos/fannie/SPINS/2010/pfcp_wk03.csv
+[2010-05-03 14:51:21] ++ Success, uploaded file pfcp_wk03.csv to ftp.spins.com
+[2010-05-03 14:51:33] -- Week tag #03 selected.  $start_date = 2010-01-10. $end_date = 2010-01-16
+[2010-05-03 14:51:33] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk03.csv
+[2010-05-03 14:51:33] ++ Success, wrote 1805 rows to file /pos/fannie/SPINS/2010/pfcp_wk03.csv
+[2010-05-03 14:51:33] ++ Success, uploaded file pfcp_wk03.csv to ftp.spins.com
+[2010-05-03 14:51:46] -- Week tag #05 selected.  $start_date = 2010-01-24. $end_date = 2010-01-30
+[2010-05-03 14:51:46] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk05.csv
+[2010-05-03 14:51:46] ++ Success, wrote 1786 rows to file /pos/fannie/SPINS/2010/pfcp_wk05.csv
+[2010-05-03 14:51:46] ++ Success, uploaded file pfcp_wk05.csv to ftp.spins.com
+[2010-05-03 14:51:58] -- Week tag #06 selected.  $start_date = 2010-01-31. $end_date = 2010-02-06
+[2010-05-03 14:51:58] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk06.csv
+[2010-05-03 14:51:58] ++ Success, wrote 1844 rows to file /pos/fannie/SPINS/2010/pfcp_wk06.csv
+[2010-05-03 14:51:58] ++ Success, uploaded file pfcp_wk06.csv to ftp.spins.com
+[2010-05-03 14:52:09] -- Week tag #07 selected.  $start_date = 2010-02-07. $end_date = 2010-02-13
+[2010-05-03 14:52:09] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk07.csv
+[2010-05-03 14:52:09] ++ Success, wrote 2029 rows to file /pos/fannie/SPINS/2010/pfcp_wk07.csv
+[2010-05-03 14:52:09] ++ Success, uploaded file pfcp_wk07.csv to ftp.spins.com
+[2010-05-03 14:52:23] -- Week tag #08 selected.  $start_date = 2010-02-14. $end_date = 2010-02-20
+[2010-05-03 14:52:23] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk08.csv
+[2010-05-03 14:52:23] ++ Success, wrote 1774 rows to file /pos/fannie/SPINS/2010/pfcp_wk08.csv
+[2010-05-03 14:52:23] ++ Success, uploaded file pfcp_wk08.csv to ftp.spins.com
+[2010-05-03 14:52:54] -- Week tag #04 selected.  $start_date = 2010-01-17. $end_date = 2010-01-23
+[2010-05-03 14:52:54] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk04.csv
+[2010-05-03 14:52:54] ++ Success, wrote 1838 rows to file /pos/fannie/SPINS/2010/pfcp_wk04.csv
+[2010-05-03 14:52:54] ++ Success, uploaded file pfcp_wk04.csv to ftp.spins.com
+[2010-05-03 14:53:24] -- Week tag #09 selected.  $start_date = 2010-02-21. $end_date = 2010-02-27
+[2010-05-03 14:53:24] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk09.csv
+[2010-05-03 14:53:24] ++ Success, wrote 1814 rows to file /pos/fannie/SPINS/2010/pfcp_wk09.csv
+[2010-05-03 14:53:24] ++ Success, uploaded file pfcp_wk09.csv to ftp.spins.com
+[2010-05-03 14:53:48] -- Week tag #10 selected.  $start_date = 2010-02-28. $end_date = 2010-03-06
+[2010-05-03 14:53:48] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk10.csv
+[2010-05-03 14:53:48] ++ Success, wrote 1870 rows to file /pos/fannie/SPINS/2010/pfcp_wk10.csv
+[2010-05-03 14:53:48] ++ Success, uploaded file pfcp_wk10.csv to ftp.spins.com
+[2010-05-03 14:54:00] -- Week tag #11 selected.  $start_date = 2010-03-07. $end_date = 2010-03-13
+[2010-05-03 14:54:00] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk11.csv
+[2010-05-03 14:54:00] ++ Success, wrote 1859 rows to file /pos/fannie/SPINS/2010/pfcp_wk11.csv
+[2010-05-03 14:54:00] ++ Success, uploaded file pfcp_wk11.csv to ftp.spins.com
+[2010-05-03 14:54:09] -- Week tag #12 selected.  $start_date = 2010-03-14. $end_date = 2010-03-20
+[2010-05-03 14:54:09] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk12.csv
+[2010-05-03 14:54:09] ++ Success, wrote 1834 rows to file /pos/fannie/SPINS/2010/pfcp_wk12.csv
+[2010-05-03 14:54:09] ++ Success, uploaded file pfcp_wk12.csv to ftp.spins.com
+[2010-05-03 14:54:28] -- Week tag #13 selected.  $start_date = 2010-03-21. $end_date = 2010-03-27
+[2010-05-03 14:54:28] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk13.csv
+[2010-05-03 14:54:28] ++ Success, wrote 1836 rows to file /pos/fannie/SPINS/2010/pfcp_wk13.csv
+[2010-05-03 14:54:28] ++ Success, uploaded file pfcp_wk13.csv to ftp.spins.com
+[2010-05-03 14:54:39] -- Week tag #14 selected.  $start_date = 2010-03-28. $end_date = 2010-04-03
+[2010-05-03 14:54:39] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk14.csv
+[2010-05-03 14:54:39] ++ Success, wrote 1920 rows to file /pos/fannie/SPINS/2010/pfcp_wk14.csv
+[2010-05-03 14:54:39] ++ Success, uploaded file pfcp_wk14.csv to ftp.spins.com
+[2010-05-03 14:54:50] -- Week tag #15 selected.  $start_date = 2010-04-04. $end_date = 2010-04-10
+[2010-05-03 14:54:50] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk15.csv
+[2010-05-03 14:54:50] ++ Success, wrote 1896 rows to file /pos/fannie/SPINS/2010/pfcp_wk15.csv
+[2010-05-03 14:54:50] ++ Success, uploaded file pfcp_wk15.csv to ftp.spins.com
+[2010-05-03 14:55:12] -- Week tag #16 selected.  $start_date = 2010-04-11. $end_date = 2010-04-17
+[2010-05-03 14:55:12] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk16.csv
+[2010-05-03 14:55:12] ++ Success, wrote 1825 rows to file /pos/fannie/SPINS/2010/pfcp_wk16.csv
+[2010-05-03 14:55:12] ++ Success, uploaded file pfcp_wk16.csv to ftp.spins.com
+[2010-05-03 14:55:22] -- Week tag #17 selected.  $start_date = 2010-04-18. $end_date = 2010-04-24
+[2010-05-03 14:55:22] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk17.csv
+[2010-05-03 14:55:22] ++ Success, wrote 1826 rows to file /pos/fannie/SPINS/2010/pfcp_wk17.csv
+[2010-05-03 14:55:22] ++ Success, uploaded file pfcp_wk17.csv to ftp.spins.com
+[2010-05-03 15:05:49] -- Week tag #18 selected.  $start_date = 2010-04-25. $end_date = 2010-05-01
+[2010-05-03 15:05:49] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk18.csv
+[2010-05-03 15:05:49] ++ Success, wrote 1830 rows to file /pos/fannie/SPINS/2010/pfcp_wk18.csv
+[2010-05-03 15:05:49] ++ Success, uploaded file pfcp_wk18.csv to ftp.spins.com
+[2010-05-04 05:01:01] -- Week tag #18 selected.  $start_date = 2010-04-25. $end_date = 2010-05-01
+[2010-05-04 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk18.csv
+[2010-05-04 05:01:01] ++ Success, wrote 1830 rows to file /pos/fannie/SPINS/2010/pfcp_wk18.csv
+[2010-05-04 05:01:01] ++ Success, uploaded file pfcp_wk18.csv to ftp.spins.com
+[2010-05-11 05:01:01] -- Week tag #19 selected.  $start_date = 2010-05-02. $end_date = 2010-05-08
+[2010-05-11 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk19.csv
+[2010-05-11 05:01:01] ++ Success, wrote 1877 rows to file /pos/fannie/SPINS/2010/pfcp_wk19.csv
+[2010-05-11 05:01:01] ++ Success, uploaded file pfcp_wk19.csv to ftp.spins.com
+[2010-05-18 05:01:01] -- Week tag #20 selected.  $start_date = 2010-05-09. $end_date = 2010-05-15
+[2010-05-18 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk20.csv
+[2010-05-18 05:01:01] ++ Success, wrote 1978 rows to file /pos/fannie/SPINS/2010/pfcp_wk20.csv
+[2010-05-18 05:01:01] ++ Success, uploaded file pfcp_wk20.csv to ftp.spins.com
+[2010-05-25 05:01:01] -- Week tag #21 selected.  $start_date = 2010-05-16. $end_date = 2010-05-22
+[2010-05-25 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk21.csv
+[2010-05-25 05:01:01] ++ Success, wrote 1860 rows to file /pos/fannie/SPINS/2010/pfcp_wk21.csv
+[2010-05-25 05:01:01] ++ Success, uploaded file pfcp_wk21.csv to ftp.spins.com
+[2010-06-01 05:01:01] -- Week tag #22 selected.  $start_date = 2010-05-23. $end_date = 2010-05-29
+[2010-06-01 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk22.csv
+[2010-06-01 05:01:01] ++ Success, wrote 1801 rows to file /pos/fannie/SPINS/2010/pfcp_wk22.csv
+[2010-06-01 05:01:01] ++ Success, uploaded file pfcp_wk22.csv to ftp.spins.com
+[2010-06-08 05:01:01] -- Week tag #23 selected.  $start_date = 2010-05-30. $end_date = 2010-06-05
+[2010-06-08 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk23.csv
+[2010-06-08 05:01:01] ++ Success, wrote 1849 rows to file /pos/fannie/SPINS/2010/pfcp_wk23.csv
+[2010-06-08 05:01:01] ++ Success, uploaded file pfcp_wk23.csv to ftp.spins.com
+[2010-06-15 05:01:01] -- Week tag #24 selected.  $start_date = 2010-06-06. $end_date = 2010-06-12
+[2010-06-15 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk24.csv
+[2010-06-15 05:01:01] ++ Success, wrote 1835 rows to file /pos/fannie/SPINS/2010/pfcp_wk24.csv
+[2010-06-15 05:01:01] ++ Success, uploaded file pfcp_wk24.csv to ftp.spins.com
+[2010-06-22 05:01:01] -- Week tag #25 selected.  $start_date = 2010-06-13. $end_date = 2010-06-19
+[2010-06-22 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk25.csv
+[2010-06-22 05:01:01] ++ Success, wrote 1793 rows to file /pos/fannie/SPINS/2010/pfcp_wk25.csv
+[2010-06-22 05:01:01] ++ Success, uploaded file pfcp_wk25.csv to ftp.spins.com
+[2010-06-29 05:01:01] -- Week tag #26 selected.  $start_date = 2010-06-20. $end_date = 2010-06-26
+[2010-06-29 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk26.csv
+[2010-06-29 05:01:01] ++ Success, wrote 1755 rows to file /pos/fannie/SPINS/2010/pfcp_wk26.csv
+[2010-06-29 05:01:01] ++ Success, uploaded file pfcp_wk26.csv to ftp.spins.com
+[2010-07-06 05:01:01] -- Week tag #27 selected.  $start_date = 2010-06-27. $end_date = 2010-07-03
+[2010-07-06 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk27.csv
+[2010-07-06 05:01:01] ++ Success, wrote 1857 rows to file /pos/fannie/SPINS/2010/pfcp_wk27.csv
+[2010-07-06 05:01:01] ++ Success, uploaded file pfcp_wk27.csv to ftp.spins.com
+[2010-07-13 05:01:01] -- Week tag #28 selected.  $start_date = 2010-07-04. $end_date = 2010-07-10
+[2010-07-13 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk28.csv
+[2010-07-13 05:01:01] ++ Success, wrote 1822 rows to file /pos/fannie/SPINS/2010/pfcp_wk28.csv
+[2010-07-13 05:01:01] ++ Success, uploaded file pfcp_wk28.csv to ftp.spins.com
+[2010-07-20 05:01:01] -- Week tag #29 selected.  $start_date = 2010-07-11. $end_date = 2010-07-17
+[2010-07-20 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk29.csv
+[2010-07-20 05:01:01] ++ Success, wrote 1775 rows to file /pos/fannie/SPINS/2010/pfcp_wk29.csv
+[2010-07-20 05:01:01] ++ Success, uploaded file pfcp_wk29.csv to ftp.spins.com
+[2010-07-27 05:01:01] -- Week tag #30 selected.  $start_date = 2010-07-18. $end_date = 2010-07-24
+[2010-07-27 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk30.csv
+[2010-07-27 05:01:01] ++ Success, wrote 1752 rows to file /pos/fannie/SPINS/2010/pfcp_wk30.csv
+[2010-07-27 05:01:01] ++ Success, uploaded file pfcp_wk30.csv to ftp.spins.com
+[2010-08-03 05:01:01] -- Week tag #31 selected.  $start_date = 2010-07-25. $end_date = 2010-07-31
+[2010-08-03 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk31.csv
+[2010-08-03 05:01:01] ++ Success, wrote 1750 rows to file /pos/fannie/SPINS/2010/pfcp_wk31.csv
+[2010-08-03 05:01:01] ++ Success, uploaded file pfcp_wk31.csv to ftp.spins.com
+[2010-08-10 05:01:01] -- Week tag #32 selected.  $start_date = 2010-08-01. $end_date = 2010-08-07
+[2010-08-10 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk32.csv
+[2010-08-10 05:01:01] ++ Success, wrote 1832 rows to file /pos/fannie/SPINS/2010/pfcp_wk32.csv
+[2010-08-10 05:01:01] ++ Success, uploaded file pfcp_wk32.csv to ftp.spins.com
+[2010-08-17 05:01:02] -- Week tag #33 selected.  $start_date = 2010-08-08. $end_date = 2010-08-14
+[2010-08-17 05:01:02] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk33.csv
+[2010-08-17 05:01:02] ++ Success, wrote 2012 rows to file /pos/fannie/SPINS/2010/pfcp_wk33.csv
+[2010-08-17 05:01:02] ++ Success, uploaded file pfcp_wk33.csv to ftp.spins.com
+[2010-08-24 05:01:01] -- Week tag #34 selected.  $start_date = 2010-08-15. $end_date = 2010-08-21
+[2010-08-24 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk34.csv
+[2010-08-24 05:01:01] ++ Success, wrote 1821 rows to file /pos/fannie/SPINS/2010/pfcp_wk34.csv
+[2010-08-24 05:01:01] ++ Success, uploaded file pfcp_wk34.csv to ftp.spins.com
+[2010-08-31 05:01:01] -- Week tag #35 selected.  $start_date = 2010-08-22. $end_date = 2010-08-28
+[2010-08-31 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk35.csv
+[2010-08-31 05:01:01] ++ Success, wrote 1839 rows to file /pos/fannie/SPINS/2010/pfcp_wk35.csv
+[2010-08-31 05:01:01] ++ Success, uploaded file pfcp_wk35.csv to ftp.spins.com
+[2010-09-07 05:01:01] -- Week tag #36 selected.  $start_date = 2010-08-29. $end_date = 2010-09-04
+[2010-09-07 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk36.csv
+[2010-09-07 05:01:01] ++ Success, wrote 1808 rows to file /pos/fannie/SPINS/2010/pfcp_wk36.csv
+[2010-09-07 05:01:01] ++ Success, uploaded file pfcp_wk36.csv to ftp.spins.com
+[2010-09-14 05:01:01] -- Week tag #37 selected.  $start_date = 2010-09-05. $end_date = 2010-09-11
+[2010-09-14 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk37.csv
+[2010-09-14 05:01:01] ++ Success, wrote 1819 rows to file /pos/fannie/SPINS/2010/pfcp_wk37.csv
+[2010-09-14 05:01:01] ++ Success, uploaded file pfcp_wk37.csv to ftp.spins.com
+[2010-09-21 05:01:01] -- Week tag #38 selected.  $start_date = 2010-09-12. $end_date = 2010-09-18
+[2010-09-21 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk38.csv
+[2010-09-21 05:01:01] ++ Success, wrote 1860 rows to file /pos/fannie/SPINS/2010/pfcp_wk38.csv
+[2010-09-21 05:01:01] ++ Success, uploaded file pfcp_wk38.csv to ftp.spins.com
+[2010-09-28 05:01:01] -- Week tag #39 selected.  $start_date = 2010-09-19. $end_date = 2010-09-25
+[2010-09-28 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk39.csv
+[2010-09-28 05:01:01] ++ Success, wrote 1899 rows to file /pos/fannie/SPINS/2010/pfcp_wk39.csv
+[2010-09-28 05:01:01] ++ Success, uploaded file pfcp_wk39.csv to ftp.spins.com
+[2010-10-05 05:01:01] -- Week tag #40 selected.  $start_date = 2010-09-26. $end_date = 2010-10-02
+[2010-10-05 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk40.csv
+[2010-10-05 05:01:01] ++ Success, wrote 1871 rows to file /pos/fannie/SPINS/2010/pfcp_wk40.csv
+[2010-10-05 05:01:01] ++ Success, uploaded file pfcp_wk40.csv to ftp.spins.com
+[2010-10-12 05:01:01] -- Week tag #41 selected.  $start_date = 2010-10-03. $end_date = 2010-10-09
+[2010-10-12 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk41.csv
+[2010-10-12 05:01:01] ++ Success, wrote 1895 rows to file /pos/fannie/SPINS/2010/pfcp_wk41.csv
+[2010-10-12 05:01:01] ++ Success, uploaded file pfcp_wk41.csv to ftp.spins.com
+[2010-10-19 05:01:01] -- Week tag #42 selected.  $start_date = 2010-10-10. $end_date = 2010-10-16
+[2010-10-19 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk42.csv
+[2010-10-19 05:01:01] ++ Success, wrote 2106 rows to file /pos/fannie/SPINS/2010/pfcp_wk42.csv
+[2010-10-19 05:01:01] ++ Success, uploaded file pfcp_wk42.csv to ftp.spins.com
+[2010-10-26 05:01:01] -- Week tag #43 selected.  $start_date = 2010-10-17. $end_date = 2010-10-23
+[2010-10-26 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk43.csv
+[2010-10-26 05:01:01] ++ Success, wrote 1823 rows to file /pos/fannie/SPINS/2010/pfcp_wk43.csv
+[2010-10-26 05:01:01] ++ Success, uploaded file pfcp_wk43.csv to ftp.spins.com
+[2010-11-02 05:01:01] -- Week tag #44 selected.  $start_date = 2010-10-24. $end_date = 2010-10-30
+[2010-11-02 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk44.csv
+[2010-11-02 05:01:01] ++ Success, wrote 1836 rows to file /pos/fannie/SPINS/2010/pfcp_wk44.csv
+[2010-11-02 05:01:01] ++ Success, uploaded file pfcp_wk44.csv to ftp.spins.com
+[2010-11-09 05:01:01] -- Week tag #45 selected.  $start_date = 2010-10-31. $end_date = 2010-11-06
+[2010-11-09 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk45.csv
+[2010-11-09 05:01:01] ++ Success, wrote 1876 rows to file /pos/fannie/SPINS/2010/pfcp_wk45.csv
+[2010-11-09 05:01:01] ++ Success, uploaded file pfcp_wk45.csv to ftp.spins.com
+[2010-11-16 05:01:01] -- Week tag #46 selected.  $start_date = 2010-11-07. $end_date = 2010-11-13
+[2010-11-16 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk46.csv
+[2010-11-16 05:01:01] ++ Success, wrote 1915 rows to file /pos/fannie/SPINS/2010/pfcp_wk46.csv
+[2010-11-16 05:01:01] ++ Success, uploaded file pfcp_wk46.csv to ftp.spins.com
+[2010-11-23 05:01:01] -- Week tag #47 selected.  $start_date = 2010-11-14. $end_date = 2010-11-20
+[2010-11-23 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk47.csv
+[2010-11-23 05:01:01] ++ Success, wrote 1847 rows to file /pos/fannie/SPINS/2010/pfcp_wk47.csv
+[2010-11-23 05:01:01] ++ Success, uploaded file pfcp_wk47.csv to ftp.spins.com
+[2010-11-30 05:01:01] -- Week tag #48 selected.  $start_date = 2010-11-21. $end_date = 2010-11-27
+[2010-11-30 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk48.csv
+[2010-11-30 05:01:01] ++ Success, wrote 1779 rows to file /pos/fannie/SPINS/2010/pfcp_wk48.csv
+[2010-11-30 05:01:01] ++ Success, uploaded file pfcp_wk48.csv to ftp.spins.com
+[2010-12-07 05:01:01] -- Week tag #49 selected.  $start_date = 2010-11-28. $end_date = 2010-12-04
+[2010-12-07 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk49.csv
+[2010-12-07 05:01:01] ++ Success, wrote 1843 rows to file /pos/fannie/SPINS/2010/pfcp_wk49.csv
+[2010-12-07 05:01:01] ++ Success, uploaded file pfcp_wk49.csv to ftp.spins.com
+[2010-12-14 05:01:01] -- Week tag #50 selected.  $start_date = 2010-12-05. $end_date = 2010-12-11
+[2010-12-14 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk50.csv
+[2010-12-14 05:01:01] ++ Success, wrote 1826 rows to file /pos/fannie/SPINS/2010/pfcp_wk50.csv
+[2010-12-14 05:01:01] ++ Success, uploaded file pfcp_wk50.csv to ftp.spins.com
+[2010-12-21 05:01:01] -- Week tag #51 selected.  $start_date = 2010-12-12. $end_date = 2010-12-18
+[2010-12-21 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk51.csv
+[2010-12-21 05:01:01] ++ Success, wrote 1845 rows to file /pos/fannie/SPINS/2010/pfcp_wk51.csv
+[2010-12-21 05:01:01] ++ Success, uploaded file pfcp_wk51.csv to ftp.spins.com
+[2010-12-28 05:01:01] -- Week tag #52 selected.  $start_date = 2010-12-19. $end_date = 2010-12-25
+[2010-12-28 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2010/pfcp_wk52.csv
+[2010-12-28 05:01:01] ++ Success, wrote 1818 rows to file /pos/fannie/SPINS/2010/pfcp_wk52.csv
+[2010-12-28 05:01:01] ++ Success, uploaded file pfcp_wk52.csv to ftp.spins.com
+[2011-01-04 05:01:02] -- Week tag #00 selected.  $start_date = . $end_date = 
+[2011-01-04 05:01:02] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk00.csv
+[2011-01-04 05:01:02] ** Error: Your query returned no results.  Exiting
+[2011-01-11 05:01:02] -- Week tag #00 selected.  $start_date = . $end_date = 
+[2011-01-11 05:01:02] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk00.csv
+[2011-01-11 05:01:02] ** Error: Your query returned no results.  Exiting
+[2011-01-18 05:01:01] -- Week tag #00 selected.  $start_date = . $end_date = 
+[2011-01-18 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk00.csv
+[2011-01-18 05:01:01] ** Error: Your query returned no results.  Exiting
+[2011-01-25 05:01:02] -- Week tag #00 selected.  $start_date = . $end_date = 
+[2011-01-25 05:01:02] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk00.csv
+[2011-01-25 05:01:02] ** Error: Your query returned no results.  Exiting
+[2011-01-27 12:41:11] -- Week tag #01 selected.  $start_date = 2010-12-26. $end_date = 2011-01-01
+[2011-01-27 12:41:11] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk01.csv
+[2011-01-27 12:41:11] ** Error: Cannot open file /pos/fannie/SPINS/2011/pfcp_wk01.csv.  Exiting
+[2011-01-27 12:42:17] -- Week tag #01 selected.  $start_date = 2010-12-26. $end_date = 2011-01-01
+[2011-01-27 12:42:17] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk01.csv
+[2011-01-27 12:42:17] ++ Success, wrote 1780 rows to file /pos/fannie/SPINS/2011/pfcp_wk01.csv
+[2011-01-27 12:42:17] ++ Success, uploaded file pfcp_wk01.csv to ftp.spins.com
+[2011-01-27 12:43:22] -- Week tag #02 selected.  $start_date = 2011-01-02. $end_date = 2011-01-08
+[2011-01-27 12:43:22] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk02.csv
+[2011-01-27 12:43:22] ++ Success, wrote 1944 rows to file /pos/fannie/SPINS/2011/pfcp_wk02.csv
+[2011-01-27 12:43:22] ++ Success, uploaded file pfcp_wk02.csv to ftp.spins.com
+[2011-01-27 12:43:52] -- Week tag #03 selected.  $start_date = 2011-01-09. $end_date = 2011-01-15
+[2011-01-27 12:43:52] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk03.csv
+[2011-01-27 12:43:52] ++ Success, wrote 1926 rows to file /pos/fannie/SPINS/2011/pfcp_wk03.csv
+[2011-01-27 12:43:52] ++ Success, uploaded file pfcp_wk03.csv to ftp.spins.com
+[2011-01-27 12:44:05] -- Week tag #04 selected.  $start_date = 2011-01-16. $end_date = 2011-01-22
+[2011-01-27 12:44:05] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk04.csv
+[2011-01-27 12:44:05] ++ Success, wrote 1854 rows to file /pos/fannie/SPINS/2011/pfcp_wk04.csv
+[2011-01-27 12:44:05] ++ Success, uploaded file pfcp_wk04.csv to ftp.spins.com
+[2011-02-01 05:01:01] -- Week tag #05 selected.  $start_date = 2011-01-23. $end_date = 2011-01-29
+[2011-02-01 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk05.csv
+[2011-02-01 05:01:01] ++ Success, wrote 1868 rows to file /pos/fannie/SPINS/2011/pfcp_wk05.csv
+[2011-02-01 05:01:01] ++ Success, uploaded file pfcp_wk05.csv to ftp.spins.com
+[2011-02-08 05:01:01] -- Week tag #06 selected.  $start_date = 2011-01-30. $end_date = 2011-02-05
+[2011-02-08 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk06.csv
+[2011-02-08 05:01:01] ++ Success, wrote 1918 rows to file /pos/fannie/SPINS/2011/pfcp_wk06.csv
+[2011-02-08 05:01:01] ++ Success, uploaded file pfcp_wk06.csv to ftp.spins.com
+[2011-02-15 05:01:02] -- Week tag #07 selected.  $start_date = 2011-02-06. $end_date = 2011-02-12
+[2011-02-15 05:01:02] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk07.csv
+[2011-02-15 05:01:02] ++ Success, wrote 1993 rows to file /pos/fannie/SPINS/2011/pfcp_wk07.csv
+[2011-02-15 05:01:02] ++ Success, uploaded file pfcp_wk07.csv to ftp.spins.com
+[2011-02-22 05:01:01] -- Week tag #08 selected.  $start_date = 2011-02-13. $end_date = 2011-02-19
+[2011-02-22 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk08.csv
+[2011-02-22 05:01:01] ++ Success, wrote 1910 rows to file /pos/fannie/SPINS/2011/pfcp_wk08.csv
+[2011-02-22 05:01:01] ++ Success, uploaded file pfcp_wk08.csv to ftp.spins.com
+[2011-03-01 05:01:01] -- Week tag #09 selected.  $start_date = 2011-02-20. $end_date = 2011-02-26
+[2011-03-01 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk09.csv
+[2011-03-01 05:01:01] ++ Success, wrote 1853 rows to file /pos/fannie/SPINS/2011/pfcp_wk09.csv
+[2011-03-01 05:01:01] ++ Success, uploaded file pfcp_wk09.csv to ftp.spins.com
+[2011-03-08 05:01:01] -- Week tag #10 selected.  $start_date = 2011-02-27. $end_date = 2011-03-05
+[2011-03-08 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk10.csv
+[2011-03-08 05:01:01] ++ Success, wrote 1930 rows to file /pos/fannie/SPINS/2011/pfcp_wk10.csv
+[2011-03-08 05:01:01] ++ Success, uploaded file pfcp_wk10.csv to ftp.spins.com
+[2011-03-15 05:01:01] -- Week tag #11 selected.  $start_date = 2011-03-06. $end_date = 2011-03-12
+[2011-03-15 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk11.csv
+[2011-03-15 05:01:01] ++ Success, wrote 1850 rows to file /pos/fannie/SPINS/2011/pfcp_wk11.csv
+[2011-03-15 05:01:01] ++ Success, uploaded file pfcp_wk11.csv to ftp.spins.com
+[2011-03-22 05:01:01] -- Week tag #12 selected.  $start_date = 2011-03-13. $end_date = 2011-03-19
+[2011-03-22 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk12.csv
+[2011-03-22 05:01:01] ++ Success, wrote 1895 rows to file /pos/fannie/SPINS/2011/pfcp_wk12.csv
+[2011-03-22 05:01:01] ++ FTP error, could not upload file pfcp_wk12.csv to ftp.spins.com
+[2011-03-29 05:01:01] -- Week tag #13 selected.  $start_date = 2011-03-20. $end_date = 2011-03-26
+[2011-03-29 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk13.csv
+[2011-03-29 05:01:01] ++ Success, wrote 1871 rows to file /pos/fannie/SPINS/2011/pfcp_wk13.csv
+[2011-03-29 05:01:01] ++ Success, uploaded file pfcp_wk13.csv to ftp.spins.com
+[2011-04-05 05:01:01] -- Week tag #14 selected.  $start_date = 2011-03-27. $end_date = 2011-04-02
+[2011-04-05 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk14.csv
+[2011-04-05 05:01:01] ++ Success, wrote 1938 rows to file /pos/fannie/SPINS/2011/pfcp_wk14.csv
+[2011-04-05 05:01:01] ++ Success, uploaded file pfcp_wk14.csv to ftp.spins.com
+[2011-04-12 05:01:01] -- Week tag #15 selected.  $start_date = 2011-04-03. $end_date = 2011-04-09
+[2011-04-12 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk15.csv
+[2011-04-12 05:01:01] ++ Success, wrote 1933 rows to file /pos/fannie/SPINS/2011/pfcp_wk15.csv
+[2011-04-12 05:01:01] ++ Success, uploaded file pfcp_wk15.csv to ftp.spins.com
+[2011-04-19 05:01:01] -- Week tag #16 selected.  $start_date = 2011-04-10. $end_date = 2011-04-16
+[2011-04-19 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk16.csv
+[2011-04-19 05:01:01] ++ Success, wrote 1968 rows to file /pos/fannie/SPINS/2011/pfcp_wk16.csv
+[2011-04-19 05:01:01] ++ Success, uploaded file pfcp_wk16.csv to ftp.spins.com
+[2011-04-26 05:01:02] -- Week tag #17 selected.  $start_date = 2011-04-17. $end_date = 2011-04-23
+[2011-04-26 05:01:02] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk17.csv
+[2011-04-26 05:01:02] ++ Success, wrote 1958 rows to file /pos/fannie/SPINS/2011/pfcp_wk17.csv
+[2011-04-26 05:01:02] ++ Success, uploaded file pfcp_wk17.csv to ftp.spins.com
+[2011-05-03 05:01:01] -- Week tag #18 selected.  $start_date = 2011-04-24. $end_date = 2011-04-30
+[2011-05-03 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk18.csv
+[2011-05-03 05:01:01] ++ Success, wrote 1920 rows to file /pos/fannie/SPINS/2011/pfcp_wk18.csv
+[2011-05-03 05:01:01] ++ Success, uploaded file pfcp_wk18.csv to ftp.spins.com
+[2011-05-10 05:01:01] -- Week tag #19 selected.  $start_date = 2011-05-01. $end_date = 2011-05-07
+[2011-05-10 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk19.csv
+[2011-05-10 05:01:01] ++ Success, wrote 1877 rows to file /pos/fannie/SPINS/2011/pfcp_wk19.csv
+[2011-05-10 05:01:01] ++ Success, uploaded file pfcp_wk19.csv to ftp.spins.com
+[2011-05-17 05:01:01] -- Week tag #20 selected.  $start_date = 2011-05-08. $end_date = 2011-05-14
+[2011-05-17 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk20.csv
+[2011-05-17 05:01:01] ++ Success, wrote 2057 rows to file /pos/fannie/SPINS/2011/pfcp_wk20.csv
+[2011-05-17 05:01:01] ++ Success, uploaded file pfcp_wk20.csv to ftp.spins.com
+[2011-05-24 05:01:02] -- Week tag #21 selected.  $start_date = 2011-05-15. $end_date = 2011-05-21
+[2011-05-24 05:01:02] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk21.csv
+[2011-05-24 05:01:02] ++ Success, wrote 1920 rows to file /pos/fannie/SPINS/2011/pfcp_wk21.csv
+[2011-05-24 05:01:02] ++ Success, uploaded file pfcp_wk21.csv to ftp.spins.com
+[2011-05-31 05:01:01] -- Week tag #22 selected.  $start_date = 2011-05-22. $end_date = 2011-05-28
+[2011-05-31 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk22.csv
+[2011-05-31 05:01:01] ++ Success, wrote 1894 rows to file /pos/fannie/SPINS/2011/pfcp_wk22.csv
+[2011-05-31 05:01:01] ++ Success, uploaded file pfcp_wk22.csv to ftp.spins.com
+[2011-06-07 05:01:01] -- Week tag #23 selected.  $start_date = 2011-05-29. $end_date = 2011-06-04
+[2011-06-07 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk23.csv
+[2011-06-07 05:01:01] ++ Success, wrote 1917 rows to file /pos/fannie/SPINS/2011/pfcp_wk23.csv
+[2011-06-07 05:01:01] ++ Success, uploaded file pfcp_wk23.csv to ftp.spins.com
+[2011-06-14 05:01:01] -- Week tag #24 selected.  $start_date = 2011-06-05. $end_date = 2011-06-11
+[2011-06-14 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk24.csv
+[2011-06-14 05:01:01] ++ Success, wrote 1933 rows to file /pos/fannie/SPINS/2011/pfcp_wk24.csv
+[2011-06-14 05:01:01] ++ Success, uploaded file pfcp_wk24.csv to ftp.spins.com
+[2011-06-21 05:01:02] -- Week tag #25 selected.  $start_date = 2011-06-12. $end_date = 2011-06-18
+[2011-06-21 05:01:02] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk25.csv
+[2011-06-21 05:01:02] ++ Success, wrote 1924 rows to file /pos/fannie/SPINS/2011/pfcp_wk25.csv
+[2011-06-21 05:01:02] ++ Success, uploaded file pfcp_wk25.csv to ftp.spins.com
+[2011-06-28 05:01:02] -- Week tag #26 selected.  $start_date = 2011-06-19. $end_date = 2011-06-25
+[2011-06-28 05:01:02] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk26.csv
+[2011-06-28 05:01:02] ++ Success, wrote 1874 rows to file /pos/fannie/SPINS/2011/pfcp_wk26.csv
+[2011-06-28 05:01:02] ++ Success, uploaded file pfcp_wk26.csv to ftp.spins.com
+[2011-07-05 05:01:01] -- Week tag #27 selected.  $start_date = 2011-06-26. $end_date = 2011-07-02
+[2011-07-05 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk27.csv
+[2011-07-05 05:01:01] ++ Success, wrote 1901 rows to file /pos/fannie/SPINS/2011/pfcp_wk27.csv
+[2011-07-05 05:01:01] ++ FTP error, could not upload file pfcp_wk27.csv to ftp.spins.com
+[2011-07-12 05:01:01] -- Week tag #28 selected.  $start_date = 2011-07-03. $end_date = 2011-07-09
+[2011-07-12 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk28.csv
+[2011-07-12 05:01:01] ++ Success, wrote 1931 rows to file /pos/fannie/SPINS/2011/pfcp_wk28.csv
+[2011-07-12 05:01:01] ++ Success, uploaded file pfcp_wk28.csv to ftp.spins.com
+[2011-07-19 05:01:02] -- Week tag #29 selected.  $start_date = 2011-07-10. $end_date = 2011-07-16
+[2011-07-19 05:01:02] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk29.csv
+[2011-07-19 05:01:02] ++ Success, wrote 1976 rows to file /pos/fannie/SPINS/2011/pfcp_wk29.csv
+[2011-07-19 05:01:02] ++ Success, uploaded file pfcp_wk29.csv to ftp.spins.com
+[2011-07-26 05:01:01] -- Week tag #30 selected.  $start_date = 2011-07-17. $end_date = 2011-07-23
+[2011-07-26 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk30.csv
+[2011-07-26 05:01:01] ++ Success, wrote 1931 rows to file /pos/fannie/SPINS/2011/pfcp_wk30.csv
+[2011-07-26 05:01:01] ++ Success, uploaded file pfcp_wk30.csv to ftp.spins.com
+[2011-08-02 05:01:01] -- Week tag #31 selected.  $start_date = 2011-07-24. $end_date = 2011-07-30
+[2011-08-02 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk31.csv
+[2011-08-02 05:01:01] ++ Success, wrote 1853 rows to file /pos/fannie/SPINS/2011/pfcp_wk31.csv
+[2011-08-02 05:01:01] ++ Success, uploaded file pfcp_wk31.csv to ftp.spins.com
+[2011-08-09 05:01:01] -- Week tag #32 selected.  $start_date = 2011-07-31. $end_date = 2011-08-06
+[2011-08-09 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk32.csv
+[2011-08-09 05:01:01] ++ Success, wrote 1866 rows to file /pos/fannie/SPINS/2011/pfcp_wk32.csv
+[2011-08-09 05:01:01] ++ Success, uploaded file pfcp_wk32.csv to ftp.spins.com
+[2011-08-16 05:01:02] -- Week tag #33 selected.  $start_date = 2011-08-07. $end_date = 2011-08-13
+[2011-08-16 05:01:02] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk33.csv
+[2011-08-16 05:01:02] ++ Success, wrote 1987 rows to file /pos/fannie/SPINS/2011/pfcp_wk33.csv
+[2011-08-16 05:01:02] ++ Success, uploaded file pfcp_wk33.csv to ftp.spins.com
+[2011-08-23 05:01:02] -- Week tag #34 selected.  $start_date = 2011-08-14. $end_date = 2011-08-20
+[2011-08-23 05:01:02] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk34.csv
+[2011-08-23 05:01:02] ++ Success, wrote 1808 rows to file /pos/fannie/SPINS/2011/pfcp_wk34.csv
+[2011-08-23 05:01:02] ++ Success, uploaded file pfcp_wk34.csv to ftp.spins.com
+[2011-08-30 05:01:01] -- Week tag #35 selected.  $start_date = 2011-08-21. $end_date = 2011-08-27
+[2011-08-30 05:01:01] -- File path and name set.  $outfile = /pos/fannie/SPINS/2011/pfcp_wk35.csv
+[2011-08-30 05:01:01] ++ Success, wrote 1805 rows to file /pos/fannie/SPINS/2011/pfcp_wk35.csv
+[2011-08-30 05:01:01] ++ Success, uploaded file pfcp_wk35.csv to ftp.spins.com

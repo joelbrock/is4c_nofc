@@ -1,0 +1,4 @@
+#!/bin/sh
+
+chmod 777 /dev/usb/lp0
+chmod 777 /dev/ttyS0

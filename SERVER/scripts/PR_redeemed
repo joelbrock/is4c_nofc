@@ -1,0 +1,6 @@
+#!/bin/bash
+mysql -uroot -peng@ge -e "use is4c_log; TRUNCATE PR_redeemedtbl; INSERT INTO PR_redeemedtbl SELECT * FROM PR_redeemed WHERE YEAR(datetime) = YEAR(now()); INSERT INTO PR_redeemedtbl SELECT * FROM PR_redeemed_today;"
+
+mysqldump -uroot -peng@ge is4c_log PR_redeemedtbl | mysql -u root -h 192.168.123.101 translog
+mysqldump -uroot -peng@ge is4c_log PR_redeemedtbl | mysql -u root -h 192.168.123.102 translog
+mysqldump -uroot -peng@ge is4c_log PR_redeemedtbl | mysql -u root -h 192.168.123.103 translog

@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "fannie DEVELOPMENT area"
+AuthUserFile /pos/fannie/dev/.htpasswd
+Require valid-user

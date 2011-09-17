@@ -1,0 +1,173 @@
+<?php
+/*******************************************************************************
+
+    Copyright 2001, 2004 Wedge Community Co-op
+
+    This file is part of IS4C.
+
+    IS4C is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+    IS4C is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    in the file license.txt along with IS4C; if not, write to the Free Software
+    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+
+*/
+
+/************************************************************************************
+General Settings
+************************************************************************************/
+
+$_SESSION["OS"] = "linux";
+$_SESSION["browserOnly"] = 0;
+$_SESSION["store"] = "nofc";
+
+date_default_timezone_set('America/Los_Angeles');
+
+/************************************************************************************
+Data Connection Settings
+************************************************************************************/
+
+$_SESSION["mServer"] = "10.1.10.50";
+//$_SESSION["mServer"] = "127.0.0.1";
+
+$_SESSION["mDatabase"] = "is4c_log";
+
+$_SESSION["DBMS"] = "mysql";
+$_SESSION["remoteDBMS"] = "mysql";
+
+$_SESSION["tDatabase"] = "translog";
+$_SESSION["pDatabase"] = "opdata";
+$_SESSION["laneno"] = "01";
+$_SESSION["localhost"] = "127.0.0.1";
+
+$_SESSION["mUser"] = "is4clane";
+$_SESSION["mPass"] = "is4clane";
+
+$_SESSION["localUser"] = "is4clane";
+$_SESSION["localPass"] = "is4clane";
+
+
+/***********************************************************************************
+Receipt & Printer Settings
+************************************************************************************/
+
+$_SESSION["print"] = 1;
+
+if ($_SESSION["OS"] == "win32") {
+	$_SESSION["printerPort"] = "lpt1:";
+} else {
+	$_SESSION["printerPort"] = "/dev/lp0";
+//	$_SESSION["printerPort"] = "/dev/usb/lp0";
+//	$_SESSION["printerPort"] = "/dev/null";
+//	$_SESSION["printerPort"] = "/pos/receipt.log";
+}
+
+$_SESSION["receiptHeader1"] = "N E W  O R L E A N S  F O O D  C O - O P";
+$_SESSION["receiptHeader2"] = "2372 St. Claude Avenue";
+$_SESSION["receiptHeader3"] = "5 0 4 - 6 5 6 - N O F C";
+
+
+$link = mysql_connect($_SESSION["localhost"], $_SESSION["localUser"], $_SESSION["localPass"]);
+if (!$link) {
+	die('Could not connect: ' . mysql_error());
+} else { //  Can we connect?  If so do this...
+	// Is there a table called messages?
+	$query = "SELECT COUNT(*) FROM information_schema.tables WHERE table_schema = 'opdata' AND table_name = 'messages'";
+	$result = mysql_query($query);
+	$tbl = mysql_fetch_row($result);
+	// $tbl = 0;
+	if ($tbl) {
+		$msgs = mysql_query("SELECT * FROM opdata.messages");
+		while ($row = mysql_fetch_assoc($msgs)) {
+			if (substr($row["id"],0,13) == 'receiptFooter') {
+				$_SESSION[$row["id"]] = $row["message"];
+			}
+			if (substr($row["id"],0,10) == 'welcomeMsg') {
+				$_SESSION[$row["id"]] = $row["message"];
+			}
+			if (substr($row["id"],0,11) == 'farewellMsg') {
+				$_SESSION[$row["id"]] = $row["message"];
+			}
+		}
+	} else {	// No messages table?  Then use the following 4 lines to update rcpt footer msg.
+		
+		$_SESSION["receiptFooter1"] = "Hooray for cooperation,";
+		$_SESSION["receiptFooter2"] = "where everybody wins!";
+		$_SESSION["receiptFooter3"] = "";
+		$_SESSION["receiptFooter4"] = "www.nolafood.coop";		
+		
+		$_SESSION["welcomeMsg1"] = "Welcome to the NOLA Food Co-op";
+		$_SESSION["welcomeMsg2"] = "Serving our Community";
+		$_SESSION["welcomeMsg3"] = "Since 2011";
+		
+		$_SESSION["farewellMsg1"] = "Thanks for shopping at YOUR store!";
+		$_SESSION["farewellMsg2"] = "See you again soon.";
+		$_SESSION["farewellMsg3"] = "";
+				
+	}
+}
+
+$_SESSION["ckEndorse1"] = "FOR DEPOSIT ONLY";
+$_SESSION["ckEndorse2"] = "";
+$_SESSION["ckEndorse3"] = "ACCOUNT XXXXXXXXXX";
+$_SESSION["ckEndorse4"] = "NEW ORLEANS FOOD CO-OP";
+
+
+$_SESSION["chargeSlip1"] = "NEW ORLEANS FOOD CO-OP"; // Store name on charge slips
+$_SESSION["chargeSlip2"] = "S T O R E   C O P Y";  // Alternative to "Merchant Copy"
+
+
+/***********************************************************************************
+Screen Message Settings
+************************************************************************************/
+
+$_SESSION["trainingMsg1"] = "welcome to the IS4C frontend";
+$_SESSION["trainingMsg2"] = "training mode is on";
+
+$_SESSION["alertBar"] = "IS4C - Alert";
+
+/***********************************************************************************
+Credit Card
+************************************************************************************/
+
+$_SESSION["ccLive"] = 0;
+$_SESSION["ccServer"] = "pcchargeserv";
+$_SESSION["ccShare"] = "activeCharge";
+$_SESSION["ccSharePath"] = "\\\\".$_SESSION["ccServer"]."\\".$_SESSION["ccShare"]."\\";
+
+/***********************************************************************************
+Other Settings
+************************************************************************************/
+$_SESSION["MADdiscount"] = 5;		//	Enter as percentage.
+$_SESSION["needBasedDisc"] = 4;		//	Enter as percentage.  Set to 0 to turn off.
+$_SESSION["patronageSwitch"] = 1;	//	Turn Patronage Refund features on (1) or off (0)
+//$_SESSION["tenPercentDay"] = 0;		// Turn 10% on the 10th on (1) or off (0)
+$_SESSION["SSDdiscount"] = 10; 		//	Staff Special Discount, as a %
+$_SESSION["discountEnforced"] = 1;
+$_SESSION["lockScreen"] = 1;
+$_SESSION["timedlogout"] = 180000;
+$_SESSION["ddNotify"] = 0; 
+$_SESSION["promoMsg"] = 0;
+
+$_SESSION["memlistNonMember"] = 1;
+$_SESSION["cashOverLimit"] = 1;
+
+$_SESSION["inputMasked"] = 0;
+
+$_SESSION["SCReceipt"] = 1;			/***staff charge receipt - print default for each lane--apbw 1/31/05***/
+
+$_SESSION["CCintegrate"] = 1;
+
+$_SESSION["dollarOver"] = 1000;
+$_SESSION["keymap"] = "ms";
+
+?>

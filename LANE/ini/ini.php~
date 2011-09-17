@@ -1,0 +1,144 @@
+<?php
+/*******************************************************************************
+
+    Copyright 2001, 2004 Wedge Community Co-op
+
+    This file is part of IS4C.
+
+    IS4C is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+    IS4C is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    in the file license.txt along with IS4C; if not, write to the Free Software
+    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+
+*/
+
+/************************************************************************************
+General Settings
+************************************************************************************/
+
+$_SESSION["OS"] = "linux";
+$_SESSION["browserOnly"] = 0;
+$_SESSION["store"] = "pfc";
+
+date_default_timezone_set('America/Los_Angeles');
+
+/************************************************************************************
+Data Connection Settings
+************************************************************************************/
+
+$_SESSION["mServer"] = "192.168.123.100";
+//$_SESSION["mServer"] = "127.0.0.1";
+
+$_SESSION["mDatabase"] = "is4c_log";
+
+$_SESSION["DBMS"] = "mysql";
+$_SESSION["remoteDBMS"] = "mysql";
+
+$_SESSION["tDatabase"] = "translog";
+$_SESSION["pDatabase"] = "opdata";
+$_SESSION["laneno"] = "01";
+$_SESSION["localhost"] = "127.0.0.1";
+
+$_SESSION["mUser"] = "root";
+$_SESSION["mPass"] = "eng@ge";
+
+$_SESSION["localUser"] = "lane01";
+$_SESSION["localPass"] = "eng@ge";
+
+
+/***********************************************************************************
+Receipt & Printer Settings
+************************************************************************************/
+
+$_SESSION["print"] = 1;
+
+if ($_SESSION["OS"] == "win32") {
+	$_SESSION["printerPort"] = "lpt1:";
+} else {
+//	$_SESSION["printerPort"] = "/dev/lp0";
+	$_SESSION["printerPort"] = "/dev/usb/lp0";
+//	$_SESSION["printerPort"] = "/dev/null";
+//	$_SESSION["printerPort"] = "/pos/receipt.log";
+}
+
+$_SESSION["receiptHeader1"] = "P E O P L E S  F O O D  C O - O P";
+$_SESSION["receiptHeader2"] = "3029 SE 21st Avenue";
+$_SESSION["receiptHeader3"] = "5 0 3 . O R G A N I C";
+
+$_SESSION["receiptFooter1"] = "How is your co-op doing?";
+$_SESSION["receiptFooter2"] = "Share your experience with us";
+$_SESSION["receiptFooter3"] = "in our 2009 survey.";
+$_SESSION["receiptFooter4"] = "Visit: www.peoples.coop/survey";
+
+$_SESSION["ckEndorse1"] = "FOR DEPOSIT ONLY";
+$_SESSION["ckEndorse2"] = "";
+$_SESSION["ckEndorse3"] = "ACCOUNT 305469";
+$_SESSION["ckEndorse4"] = "PEOPLES FOOD CO-OP";
+
+
+$_SESSION["chargeSlip1"] = "PEOPLES FOOD CO-OP"; // Store name on charge slips
+$_SESSION["chargeSlip2"] = "S T O R E   C O P Y";  // Alternative to "Merchant Copy"
+
+
+/***********************************************************************************
+Screen Message Settings
+************************************************************************************/
+
+$_SESSION["welcomeMsg1"] = "Welcome to People's Food Co-op";
+$_SESSION["welcomeMsg2"] = "Serving our Community";
+$_SESSION["welcomeMsg3"] = "Since 1970";
+
+$_SESSION["trainingMsg1"] = "welcome to people's frontend";
+$_SESSION["trainingMsg2"] = "training mode is on";
+
+$_SESSION["farewellMsg1"] = "Thanks for shopping at People's Co-op";
+$_SESSION["farewellMsg2"] = "See you again soon.";
+$_SESSION["farewellMsg3"] = "";
+
+$_SESSION["alertBar"] = "IS4C - Alert";
+
+/***********************************************************************************
+Credit Card
+************************************************************************************/
+
+$_SESSION["ccLive"] = 0;
+$_SESSION["ccServer"] = "pcchargeserv";
+$_SESSION["ccShare"] = "activeCharge";
+$_SESSION["ccSharePath"] = "\\\\".$_SESSION["ccServer"]."\\".$_SESSION["ccShare"]."\\";
+
+/***********************************************************************************
+Other Settings
+************************************************************************************/
+$_SESSION["MADdiscount"] = 0;		//	Enter as percentage.
+$_SESSION["needBasedDisc"] = 4;		//	Enter as percentage.  Set to 0 to turn off.
+$_SESSION["patronageSwitch"] = 1;	//	Turn Patronage Refund features on (1) or off (0)
+$_SESSION["tenPercentDay"] = 0;		// Turn 10% on the 10th on (1) or off (0)
+$_SESSION["discountEnforced"] = 1;
+$_SESSION["lockScreen"] = 1;
+$_SESSION["timedlogout"] = 180000;
+$_SESSION["ddNotify"] = 0; 
+$_SESSION["promoMsg"] = 0;
+
+$_SESSION["memlistNonMember"] = 1;
+$_SESSION["cashOverLimit"] = 1;
+
+$_SESSION["inputMasked"] = 0;
+
+$_SESSION["SCReceipt"] = 1;			/***staff charge receipt - print default for each lane--apbw 1/31/05***/
+
+$_SESSION["CCintegrate"] = 1;
+
+$_SESSION["dollarOver"] = 1000;
+$_SESSION["keymap"] = "ms";
+
+?>

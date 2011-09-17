@@ -1,0 +1,15 @@
+#!/bin/sh
+
+php -f downloadtenders.php
+
+php -f downloadcustdata.php
+
+php -f downloaddepartments.php
+
+php -f downloadproducts.php
+
+php -f downloademployees.php
+
+echo  "\r\r"
+
+
